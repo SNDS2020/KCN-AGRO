@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "548019685160",
+    "firebase_url": "https://kcn-agro.firebaseio.com",
+    "project_id": "kcn-agro",
+    "storage_bucket": "kcn-agro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548019685160:android:dfc4cd7a9396e1c16f721d",
+        "android_client_info": {
+          "package_name": "com.args.kcnagro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548019685160-d7uor1l4j5tcnfbgagsdr56e4de3k9jf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.args.kcnagro",
+            "certificate_hash": "eadc48c368b05180b4ba6b4603b47bb3e8c6e2ed"
+          }
+        },
+        {
+          "client_id": "548019685160-p2acmd29q0jm8hlngtne3fmjva1suf5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY_qeNxiiwGIu874r35Ifv4hs8n1YS2VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548019685160-p2acmd29q0jm8hlngtne3fmjva1suf5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
