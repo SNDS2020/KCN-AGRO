@@ -9,16 +9,22 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".About_activity"
-            android:screenOrientation="portrait"></activity>
-        <activity android:name=".Forgot_password_activity"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".Account_activity"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".home_activity"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".Login_activity"
-            android:screenOrientation="portrait"/>
+        <activity android:name=".Order_Sucess_activity"></activity>
+        <activity
+            android:name=".About_activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Forgot_password_activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Account_activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".home_activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Login_activity"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".MainActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
