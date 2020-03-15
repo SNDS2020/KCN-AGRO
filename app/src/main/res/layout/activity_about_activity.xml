@@ -59,7 +59,7 @@
                 android:layout_width="329dp"
                 android:layout_height="50dp"
                 android:gravity="left"
-                android:text="App devoloped by :- ARGS INFOTECH"
+                android:text="App developed by :- ARGS INFOTECH"
                 android:textSize="16sp"
                 android:textStyle="bold" />
 
